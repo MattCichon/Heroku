@@ -1,0 +1,9 @@
+@charset "ISO-8859-1";
+
+.gradient {
+	background: -webkit-linear-gradient(#FF0202, #FFFF02);
+	-webkit-background-clip: text;
+	background-clip: text;
+	clip: none;
+	-webkit-text-fill-color: transparent;
+}
